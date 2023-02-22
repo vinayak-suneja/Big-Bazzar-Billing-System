@@ -40,7 +40,7 @@ git clone https://github.com/[username]/Big-Bazzar-Billing-System.git
 5. View transaction history and generate reports as needed.
 
 ## How it Works
-Note: Change the Sql parameters according to your database table.
+Note: The MySQL Database for authorized username is mentioned in the word file.
 
 1. Input Password
 2. If password or username match it will move on to the next frame & if it does not it will show the following error
