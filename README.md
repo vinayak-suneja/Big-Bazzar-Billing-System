@@ -23,7 +23,7 @@ This is a simple billing system created for Big Bazar retail stores using Java N
 
 ```
 bashCopy code
-git clone https://github.com/[username]/Big-Bazzar-Billing-System.git
+git clone https://github.com/vinayak-suneja/Big-Bazzar-Billing-System.git
 
 ```
 
